@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nome": "Blaser",
+        "descricao": "Blaser Cinza ",
+        "preco": 200.90,
+        "imagem": "https://i.pinimg.com/736x/d9/32/32/d9323232c057f80623b1fe70184f046e.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Conjunto",
+        "descricao": "Conjunto Calça + Blaser ",
+        "preco": 259.99,
+        "imagem": "https://i.pinimg.com/736x/96/dd/9c/96dd9c76472df5192658a6beff13873e.jpg"
+        },
+    {
+        "id": 3,
+        "nome": "Blusa de Lã e Calça Social",
+        "descricao": "Conjunto Blusa de Lã + Calça Social",
+        "preco": 249.99,
+        "imagem": "https://i.pinimg.com/736x/c4/5c/5b/c45c5bcefecd0a6c382a97e2dc64bfa8.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Camisa",
+        "descricao": "Camisa de Lã Polo",
+        "preco": 189.99,
+        "imagem": "https://i.pinimg.com/736x/2c/cb/43/2ccb43efda4a5c66730dd29dcb66c086.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Saia Social",
+        "descricao": "Saia Social Midi + Cinto",
+        "preco": 169.00,
+        "imagem": "https://i.pinimg.com/736x/f8/ff/01/f8ff01d46ccc3f8993c8cb781a4dee05.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Calça Social",
+        "descricao": "Calça Social Bege",
+        "preco": 200.00,
+        "imagem": "https://i.pinimg.com/736x/b8/af/f3/b8aff3ed0973778f8290c12b29655c97.jpg"
+    }
+]
